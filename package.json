@@ -1,0 +1,14 @@
+{
+  "name": "fyb-react-mini",
+  "version": "1.0.0",
+  "description": "A react-mini repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-mini"
+  ],
+  "author": "feng",
+  "license": "ISC"
+}
